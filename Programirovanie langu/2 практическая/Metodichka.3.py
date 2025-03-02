@@ -16,7 +16,7 @@
 # d = {a: a**2 for a in range(7)}
 # print(d)
 
-d = {1:2,2:4,3:9}
-print(d[1])
-print(d[4]==4**2)
-d['1']
+# d = {1: 2, 2: 4, 3: 9}
+# print(d[1])
+# d[4]=4**2
+# print(d[4])

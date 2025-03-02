@@ -1,0 +1,11 @@
+dF_dx 5*x**4
+dF_dy 3*y**2
+dF_dz 2*z
+d2F_dx2 20*x**3
+d2F_dy2 6*y
+d2F_dz2 2
+d3F_dy3 6
+d4F_dz4 0
+d2F_dxdy 0
+d2F_dzdx 0
+d2F_dxdz 0

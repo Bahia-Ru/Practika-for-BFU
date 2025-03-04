@@ -20,7 +20,6 @@ with open('dict_for_country.txt', 'r') as openFile:
 #     else:
 #        country = input('Я не знаю где находится где находится такой город подскажите пожалуйста:')
 #        dict_for_country.setdefault(city,country)
-
 #     print(city,'- это',dict_for_country[city])
 
 
